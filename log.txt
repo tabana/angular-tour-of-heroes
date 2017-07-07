@@ -1,0 +1,8 @@
+yarn run v0.23.4
+$ tsc -p src/ 
+src/app/hero.service.ts(7,15): error TS1144: '{' or ';' expected.
+src/app/hero.service.ts(7,30): error TS1005: '(' expected.
+src/app/hero.service.ts(7,36): error TS1005: '(' expected.
+src/app/hero.service.ts(7,43): error TS1144: '{' or ';' expected.
+src/app/hero.service.ts(10,1): error TS1128: Declaration or statement expected.
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
